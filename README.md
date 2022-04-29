@@ -1,3 +1,3 @@
 # CSCI-326
 
-Giorgio Antonacci
+Giorgio Antonacci Billy Tobin
