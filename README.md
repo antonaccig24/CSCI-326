@@ -1,3 +1,4 @@
 # CSCI-326
 
-Giorgio Antonacci Billy Tobin
+Author: Giorgio Antonacci 
+Partner: Billy Tobin
