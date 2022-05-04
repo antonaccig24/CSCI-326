@@ -2,7 +2,7 @@ from copy import copy
 import functools
 import math
 
-def count2(filename, num):
+def count2(filename, output_file, num):
     l = open(filename, 'r').read().splitlines()
     house_list = []
     for line in l:
@@ -11,6 +11,7 @@ def count2(filename, num):
 
     x= 0  #so that we can call  an x coord of a pair instead of 0
     y = 1 # supposed to be more readable
+    a = 2
 
     size_list = [0]*len(house_list)
 
